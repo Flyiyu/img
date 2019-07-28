@@ -2,39 +2,44 @@
 ## 一期
 #### java基础
     1. 运算符、数据结构
-    2. 变量、数组、接口、类、继承、实现
+    2. 变量、数组、接口、类、继承、实现、枚举、泛型
     3. 面向对象编程（OOP）
     4. JDBC编程（手写连接数据库---代码）
-    
+    5. static、final、transient
+
 
 ## 二期
 
     1. 集合框架
+        - set
+        - list
+        - map
         - 如何遍历各种集合
         - 二叉树
         - 红黑树
-    
+
     2. 线程（然后写一个多线程购票的例子）
-    
+
     3. Socket
         - 网络编程实现通信
+        - io nio
     4. 链表
-    
+
     5.队列
-    
-    6. 设计模式（需要会三种）
-    
+
+    6. 设计模式（需要会三种）,线程安全
+
     7. 排序方式
-    
+
         - 冒泡排序
         - 快速排序
         - 选择排序
         - 插入排序
         - 递归
         - 迭代
-    
+
     8. MySql&Oracle
-    
+
      - 事务
      - 需要会的一些的基本操作
        - DML（数据操作语言）insert delete update
@@ -47,7 +52,7 @@
         - Session
         - Filter(过滤器)
         - JSP
-        
+
 ## Linux
     - Linux常用命令和VI编辑器
     - Linux开发环境搭建
@@ -73,23 +78,25 @@
   - Redis
     - 哨兵
     - 主从
-    - 
   - RabbitMQ
   - Shiro
+  - Kafka
+  - Elasticsearch
+  - kibana
+  - logstash
   - 手写SSM框架
 
 ## 数据库
-mysql
+mysql & oracle
 - 数据库的引擎
 - mysql和oracle的区别
 - sql优化
 - 数据库的范式
-oracle
 - 存储过程
 - 游标
 - 触发器
 - PLSQL
- 
+
 ### 其他需要了解
 
 ## H5
